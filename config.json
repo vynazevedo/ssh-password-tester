@@ -1,0 +1,7 @@
+{
+    "server": "foobar.com",
+    "username": "user",
+    "port": 22,
+    "max_workers": 10,
+    "timeout": 5
+}
