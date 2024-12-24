@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+"""
+SSH Password Tester
+-----------------
+
+Script desenvolvido para teste de múltiplas senhas SSH com processamento paralelo
+e recursos avançados de recuperação e checkpoint.
+
+Autor: Vinicius Azevedo (vynazevedo)
+GitHub: https://github.com/vynazevedo
+Data: Dezembro 2024
+
+"""
+
 import paramiko
 import time
 from typing import List, Dict
